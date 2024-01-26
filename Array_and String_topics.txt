@@ -1,0 +1,14 @@
+Array :  
+1 . Subarray
+2 . subset
+3 . sliding window
+4 . Two pointers
+5 . prefix sum algorithm
+6 . suffix sum
+7 . Hashing
+8 . Binary Search
+9 . sorting techniques(Merge sort,Bubble sort,quick sort)
+
+Strings:
+1.KMP
+2 . Robin Karp
