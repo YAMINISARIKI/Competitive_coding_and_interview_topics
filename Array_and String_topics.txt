@@ -8,6 +8,7 @@ Array :
 7 . Hashing
 8 . Binary Search
 9 . sorting techniques(Merge sort,Bubble sort,quick sort)
+10 . Backtracking
 
 Strings:
 1.KMP
