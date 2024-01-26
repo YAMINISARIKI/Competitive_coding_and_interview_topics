@@ -1,0 +1,7 @@
+1 . Stack
+2 . queue
+3 . LinkedList
+4 . Trees
+5 . Graphs
+6 . Trie
+7 . Segmented tree
