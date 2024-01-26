@@ -1,0 +1,9 @@
+1 . Bit manipulation
+2 . combinatorics
+3 . seive
+4 . segmented seive
+5 . Binary exponentiation
+6 . Inverse
+7 . Modular
+8 . GCD
+9 . Catalane numbers
